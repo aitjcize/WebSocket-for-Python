@@ -1,4 +1,4 @@
-# WebSocket for Python (ws4py)
+# WebSocket for Python (ws4py) [TLS1.3 supported]
 
 [![Gitter](https://badges.gitter.im/Lawouach/WebSocket-for-Python.svg)](https://gitter.im/Lawouach/WebSocket-for-Python?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![Build Status](https://travis-ci.org/Lawouach/WebSocket-for-Python.svg?branch=master)](https://travis-ci.org/Lawouach/WebSocket-for-Python)
